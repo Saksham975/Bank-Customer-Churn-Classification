@@ -1,5 +1,5 @@
-# Bank-Customer-Churn-Classification
-# Creating classification model using neural networks
+## Bank-Customer-Churn-Classification
+## Creating classification model using neural networks
 
 Dataset link - https://www.kaggle.com/santoshd3/bank-customers
 
@@ -30,4 +30,4 @@ Deep learning is all about trial and error.
 Try to play with more number of hidden layers, different activation functions, dropout ratios, optimizer etc.
 In every different implementation of code, you'll get different accuracy, preciion, recall. Try to find the best suited value as per the requirement.
 
-## Dropout layer was used as the data was imbalanced and also to reduce the problem of overfitting.
+# Dropout layer was used as the data was imbalanced and also to reduce the problem of overfitting.
