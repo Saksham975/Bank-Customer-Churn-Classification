@@ -31,3 +31,14 @@ Try to play with more number of hidden layers, different activation functions, d
 In every different implementation of code, you'll get different accuracy, preciion, recall. Try to find the best suited value as per the requirement.
 
 # Dropout layer was used as the data was imbalanced and also to reduce the problem of overfitting.
+
+
+
+
+
+
+# churn_prediction_handling_imbalanced_data.py
+
+This file handles the imbalanced dataset and applies various techniques such as under-sampling, over-sampling, SMOTE, ensemble to overcome the problem.
+
+Imbalanced dataset handling metrics comparison.docx - This file contains the summarization of tasks completed in handling imbalanced dataset.
